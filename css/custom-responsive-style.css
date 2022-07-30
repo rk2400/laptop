@@ -1,6 +1,6 @@
 /*Small Devices*/
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 400px) {
 	#Banner {
 		width: 134%;
 	}
